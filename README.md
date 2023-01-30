@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/joaovictorvns">
-  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=joaovictorvns&border_radius=10&title_color=0099ff&text_color=cceeff&ring_color=cceeff&show_icons=true&bg_color=45,000000,001a33&include_all_commits=true&count_private=true&hide_border=true&custom_title=João%20Victor%20Santos's%20GitHub%20stats"/>
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorvns&border_radius=8&title_color=0099ff&text_color=cceeff&bg_color=45,001a33,000000&hide_border=true"/>
+  <img height="176em" src="https://github-readme-stats.vercel.app/api?username=joaovictorvns&border_radius=10&title_color=0099ff&text_color=cceeff&ring_color=cceeff&show_icons=true&bg_color=45,000000,001a33&include_all_commits=true&count_private=true&hide_border=true&custom_title=João%20Victor%20Santos's%20GitHub%20stats"/>
+  <img height="176em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorvns&border_radius=8&title_color=0099ff&text_color=cceeff&bg_color=45,001a33,000000&hide_border=true"/>
   <a/>
 </div>
 
