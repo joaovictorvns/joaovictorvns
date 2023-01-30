@@ -1,17 +1,9 @@
 <div align="center">
   <a href="https://github.com/joaovictorvns">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictorvns&border_radius=10&title_color=0099ff&text_color=cceeff&ring_color=cceeff&show_icons=true&bg_color=45,000000,001a33&include_all_commits=true&count_private=true&hide_border=true&custom_title=João%20Victor%20Santos's%20GitHub%20stats" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorvns&border_radius=8&title_color=0099ff&text_color=cceeff&bg_color=45,001a33,000000&hide_border=true" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorvns&card_width=100&border_radius=8&title_color=0099ff&text_color=cceeff&bg_color=45,001a33,000000&hide_border=true" />
   <a/> 
 </div>
-
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 <!--
 https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only
